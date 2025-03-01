@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Matheus Deyvisson, curso o Instituto Militar de Engenharia, e já obtive diversas medalhas, aprovações e conquistas antes de adentrar nesta instituição.<br><br>Aqui organizarei meus projetos que tanto trabalhei e desenvolvi desde que iniciei minha vida como Dev.<br><br>Se deseja saber mais sobre mim e do que sou capaz, aconselho que vá no link de minhas contas profissionais.</p>
+<p align="left">Meu nome é Matheus Deyvisson, curso o Instituto Militar de Engenharia, e já obtive diversas medalhas, aprovações e conquistas antes de adentrar nesta instituição.<br><br>Aqui organizarei meus projetos que tanto trabalhei e desenvolvi desde que iniciei minha carreira como Dev.<br><br>Se deseja saber mais sobre mim e do que sou capaz, aconselho que vá no link de minhas contas profissionais.</p>
 
 ###
 
