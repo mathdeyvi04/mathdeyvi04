@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Matheus Deyvisson, curso o Instituto Militar de Engenharia, e já obtive diversas medalhas, aprovações e conquistas antes de adentrar nesta instituição.<br><br>Aqui organizarei meus projetos que tanto trabalhei e desenvolvi desde que iniciei minha carreira como Dev.<br><br>Se deseja saber mais sobre mim e do que sou capaz, aconselho que vá no link de minhas contas profissionais.</p>
+<p align="left">Meu nome é Matheus Deyvisson, curso Engenharia de Comunicações no Instituto Militar de Engenharia, e já obtive diversas medalhas, aprovações e conquistas antes de adentrar nesta instituição.<br><br>Aqui organizarei meus projetos que tanto trabalhei e desenvolvi desde que iniciei minha carreira como Dev.<br><br>Se deseja saber mais sobre mim e do que sou capaz, aconselho que vá no link de minhas contas profissionais.</p>
 
 ###
 
@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
@@ -40,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -49,11 +52,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
 ###
@@ -62,11 +62,13 @@
 
 ###
 
+* **Simulation Soccer ⚽🤖**: <br><br>Todo um estudo, desenvolvimento e implementação de técnicas avançadas de programação e de Machine Learning a fim de treinar e automatizar uma equipe de robôs virtuais a jogar futebol.
+
 * **Estação Virtual Meteorológica :satellite:**: <br><br>Software capaz de reunir informações climáticas por satélite e, regularmente, guardá-las em planilhas inteligentes.
 
 * **Sargenteante :office:**: <br><br>Software capaz de gerenciar turmas de pessoas, reunindo tratamento para suas escalas de serviço, enfermidades e punições.
 
-* **Reprodutor Musical :musical_note:**: <br><br>Reprodutor capaz de baixar músicas a partir de links, gerenciar customizações e álbuns de músicas, e prover ranking de músicas mais ouvidas.
+* **Reprodutor Musical :musical_note:**: <br><br>Clássico reprodutor capaz de baixar músicas a partir de links, gerenciar customizações e álbuns de músicas, e prover ranking de músicas mais ouvidas.
 
 
 
