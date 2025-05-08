@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Eu trabalho com</h2>
+<h2 align="left">Tecnologias Já Trabalhadas</h2>
 
 ###
 
@@ -47,17 +47,6 @@
 
 ###
 
-<h2 align="left">Aprendendo</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-</div>
-
-###
-
 <h2 align="left">Um Pouco dos Meus Melhores Projetos</h2>
 
 ###
@@ -70,7 +59,9 @@
 
 * **Reprodutor Musical :musical_note:**: <br><br>Clássico reprodutor capaz de baixar músicas a partir de links, gerenciar customizações e álbuns de músicas, e prover ranking de músicas mais ouvidas.
 
-
+<div align="center">
+     <img align="center" alt="GIF" src="https://github.com/user-attachments/assets/324aa508-b79d-4d4c-a583-cdd413e284be" width="400" height="320" />
+</div>
 
 <h2 align="left">Algumas Estatísticas</h2>
 
