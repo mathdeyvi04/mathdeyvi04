@@ -55,9 +55,11 @@
 
 * **Estação Virtual Meteorológica :satellite:**: <br><br>Software capaz de reunir informações climáticas por satélite e, regularmente, guardá-las em planilhas inteligentes.
 
-* **Sargenteante :office:**: <br><br>Software capaz de gerenciar turmas de pessoas, reunindo tratamento para suas escalas de serviço, enfermidades e punições.
+* **TrackSense :floppy_disk:**: <br><br>Aplicação focada para placa STM32, no qual informações são obtidas de um sensor GPS e enviadas via UDP para outra máquina conectada.
 
-* **Reprodutor Musical :musical_note:**: <br><br>Clássico reprodutor capaz de baixar músicas a partir de links, gerenciar customizações e álbuns de músicas, e prover ranking de músicas mais ouvidas.
+* **Reprodutor Musical :musical_note:**: <br><br>Reprodutor músical via terminal, a fim de garantir operacionalidade mesmo sem internet. Permite download de músicas.
+
+* **Inteligência Artificial :robot:**: <br><br>Coleção de estudos sobre inteligência artificial, sendo o diferencial a construção _from scratch_.
 
 <div align="center">
      <img align="center" alt="GIF" src="https://github.com/user-attachments/assets/324aa508-b79d-4d4c-a583-cdd413e284be" width="400" height="320" />
